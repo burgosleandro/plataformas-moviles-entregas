@@ -17,10 +17,10 @@
     opacity: 100%;
     color: #000;
  }
- .novelas parrafo{
+ .novelas.parrafo{
     color: rgba(190, 120, 240, 0.6);
  }
-p.fuente{
+.fuente.parrafo{
     color: #000;
 }
 .complicado{
