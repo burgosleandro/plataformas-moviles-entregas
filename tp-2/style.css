@@ -50,8 +50,8 @@ strong{
 }
 
 /* 10) */
-.movies-list:nth-last-of-type(3)li:last-child{
-    margin-top: 200px;
+.movies-list:nth-last-of-typeli:last-child{
+    margin-top: 15px;
 }
 
 /* 11) */
